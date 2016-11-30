@@ -1,0 +1,4 @@
+graft src/cmcs
+graft docs
+include *.rst
+global-exclude *.pyc
