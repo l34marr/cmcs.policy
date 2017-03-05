@@ -44,6 +44,7 @@ setup(
         'z3c.jbot',
         'plone.app.theming',
         'plone.app.themingplugins',
+        'plone.app.dexterity',
     ],
     extras_require={
         'test': [
